@@ -126,7 +126,7 @@ body {
     width: 15.5rem;
 }
 #more-info {
-    text-align: center;
+    
     border-top: 1px solid #ffffff34;
     padding-top: 1.5rem;
 
@@ -146,4 +146,10 @@ body {
 }
 .hidden {
     display: none;
+}
+.normal {
+    color: #ff52de;
+}
+.attention {
+    color: #dc2626;
 }
