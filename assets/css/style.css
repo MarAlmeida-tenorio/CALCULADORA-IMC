@@ -31,5 +31,11 @@ body {
     color: #f8fafc;
     background-color: #262626;
     border-radius: 8px;
-    
+
 }   
+
+#form {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
